@@ -158,6 +158,7 @@
     <ClCompile Include="Lockon.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="..\..\..\..\..\Downloads\2020-02-28-193455.jpg" />
     <Image Include="2019-10-27-211204.jpg" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
